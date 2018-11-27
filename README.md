@@ -2,7 +2,7 @@
 SX3 Thrust Calibration and measurement Program for Teensy 3.6
 
 ## Usage Instruction
-Download this file and compile using Arduino IDE and upload to Teensy via Teensy loader. Make sure you have the support libraries from [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1560705.svg)](https://zenodo.org/badge/latestdoi/133398390).
+Download this file and compile 'sx3_cal.ino' using Arduino IDE and upload to Teensy via Teensy loader. Make sure you have the support libraries from [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1560705.svg)](https://zenodo.org/badge/latestdoi/133398390).
 
 # Current Function Mapping
 Switch  | Function
